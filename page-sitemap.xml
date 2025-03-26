@@ -32,48 +32,28 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/battlefield/</loc>
+		<lastmod>2025-03-26T18:57:14+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/nixa/</loc>
-		<lastmod>2025-03-26T05:34:16+00:00</lastmod>
+		<lastmod>2025-03-26T18:57:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/republic/</loc>
-		<lastmod>2025-03-26T05:34:16+00:00</lastmod>
+		<lastmod>2025-03-26T18:57:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ozark/</loc>
-		<lastmod>2025-03-26T05:34:16+00:00</lastmod>
+		<lastmod>2025-03-26T18:57:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/willard/</loc>
-		<lastmod>2025-03-26T05:34:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/battlefield/</loc>
-		<lastmod>2025-03-26T05:34:16+00:00</lastmod>
+		<lastmod>2025-03-26T18:57:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ant-control/</loc>
 		<lastmod>2025-02-27T22:29:58+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/tick-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/moth-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/squirrel-removal/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/raccoon-removal/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/wildlife-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/residential/</loc>
@@ -113,6 +93,26 @@
 	</url>
 	<url>
 		<loc>/silverfish-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/tick-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/moth-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/squirrel-removal/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/raccoon-removal/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/wildlife-control/</loc>
 		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
